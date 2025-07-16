@@ -1,27 +1,27 @@
-# 📊 Maruti Suzuki Media Team: Content Consumption Dashboard (Power BI)
+# Maruti Suzuki Media Team: Content Consumption Dashboard (Power BI)
 
 This dashboard was created during my internship at **Maruti Suzuki**, aiming to uncover content consumption patterns across devices, platforms, and formats. The insights helped improve campaign planning and targeting.
 
 ---
 
-## 🔧 Tools Used
+## Tools Used
 - Microsoft Power BI
 - Excel (data cleanup & structuring)
 - SQL (for pre-analysis queries)
 
 ---
 
-## ⚡ Key Features & Impact
+## Key Features & Impact
 
-✅ Reduced content analysis time by **30%**  
-✅ Enhanced team decision-making with **dynamic filters**  
-✅ Supported content strategy planning with **5+ visual insights**
+Reduced content analysis time by **30%**  
+Enhanced team decision-making with **dynamic filters**  
+Supported content strategy planning with **5+ visual insights**
 
 ---
 
-## 📌 Dashboard Overview
+##  Dashboard Overview
 
-![dashboard](dashboard_screenshots/dashboard_main.png)
+![dashboard](dashboard_main.png)
 
 - **Interactive Filters** for content, platform, and device
 - **Pie Chart** shows content type preference
@@ -30,7 +30,7 @@ This dashboard was created during my internship at **Maruti Suzuki**, aiming to 
 
 ---
 
-## 📈 Business Use Case
+## Business Use Case
 
 This dashboard enabled the media planning team to:
 - Identify **top content formats** per platform/device
@@ -39,7 +39,7 @@ This dashboard enabled the media planning team to:
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 - `content_dashboard.pbix`: The Power BI project file  
 - `dashboard_screenshots/`: Image preview of the dashboard layout
